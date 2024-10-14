@@ -25,8 +25,8 @@ int yywrap() {
     return 1;   /* End of input */
 }
 /*___________________OUTPUT_______________________
-Enter a string: Hello Hi ByE
+Enter a string: My Name is deVa
 
-Total number of vowels: 4
-Total number of consonants: 6
+Total number of vowels: 5
+Total number of consonants: 7
 */

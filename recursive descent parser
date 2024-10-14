@@ -1,3 +1,5 @@
+//Deva narayanan 
+//S7 CS2
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -127,6 +129,7 @@ int main() {
 
     return 0;
 }
+
 /*Output
 Grammar Parser
 	 E->TE' 

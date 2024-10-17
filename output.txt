@@ -1,1 +1,7 @@
-
+File contains:
+    2 digits
+    13 words
+    29 lowercase letters
+    4 uppercase letters
+    2 lines
+    4 special characters

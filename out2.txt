@@ -1,0 +1,20 @@
+Left Brace:{
+Keyword:IF
+Left Paranthesis:(
+Identifier:x
+operator:=
+operator:=
+Number:10
+Right Paranthesis:)
+Left Brace:{
+Keyword:RETURN
+Identifier:x
+Semicolon:;
+Right Brace:}
+Keyword:ELSE
+Left Brace:{
+Keyword:RETURN
+Identifier:y
+Semicolon:;
+Right Brace:}
+Right Brace:}
